@@ -1,0 +1,3 @@
+<?php
+
+echo "DARAJA API BY CHAT TO EARN KENYA";
